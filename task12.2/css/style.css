@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: bottom;
+}
+
+#navbar {
+    background-color: #191b1c;
+   padding-top: 18px;
+   padding-bottom: 38px;
+}
+
+#navleft {
+    float: left;
+    text-align: center;
+    margin-left: 80px;
+    
+}
+
+#navleft p {
+    color: white;
+    
+    font-size: 1.5rem;
+}
+#navright{
+    float: right;
+    margin-right: 80px;
+}
+#navright a{
+color: rgba(255, 255, 255, 0.55);
+font-size: 1.1rem;
+margin-left: 0.5rem;
+
+}
+#first{
+text-align: center;
+background-color: #0d6efd;
+padding: 105px;
+
+}
+#first h1{
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 1.25rem;
+}
+#first p{
+    margin-bottom: 1.25rem;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 100;
+}
+#first a{
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    color: black;
+    background-color: white;
+    border-color: white;
+}
+#about{
+    padding: 100px;
+}
+.aboutcntnt{
+    width: 60%;
+    margin-left: 20%;
+    
+    
+}
+.aboutcntnt h2{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+}
+.aboutcntnt p{
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-bottom: 10px;
+    line-height: 1.7rem;
+}
+.aboutcntnt ul li{
+    font-size: 17px;
+    line-height: 1.5rem;
+}
+.aboutcntnt ul{
+    margin-left: 30px;
+}
+#services{
+    background-color: #e9ecef;
+    
+}
+.servicescntnt{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 80px;
+}
+.servicescntnt h2{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+}
+.servicescntnt p{
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-bottom: 10px;
+    line-height: 1.7rem;
+}
+#services{
+    padding: 80px;
+}
+
+
+#contact{
+    padding: 80px;
+}
+.contactcntnt{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 80px;
+}
+.contactcntnt h2{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+}
+.contactcntnt p{
+    font-size: 1.25rem;
+    font-weight: 100;
+    margin-bottom: 10px;
+    line-height: 1.7rem;
+}
+#copyright{
+    background-color: #212529;
+    padding: 50px;
+    text-align: center;
+}
+#copyright p{
+    color: white;
+    font-size: 17px;
+}
